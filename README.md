@@ -3,7 +3,7 @@
 A Machine Learning web application that detects malicious/phishing URLs with real-time threat scoring.
 
 ## 🚀 Live Demo
-[Click here to view the app](#) ← deployment ke baad link daalna
+[Click here to view the app](https://phishing-detector-vanshika.streamlit.app)
 
 ## 📌 Features
 - 🔍 Real-time URL scanning with threat score (0-100)
